@@ -4,15 +4,16 @@
 
 *Prerequisite Knowledge: React Redux with TypeScript, JavaScript methods `.map()` `.filter()` `.reduce()`, Test Driven Development*
 
-Coding Challenge: 
+Coding Challenge: Create React Redux application with TypeScript that 
 
 ### MVP
 
-React Redux with TypeScript array methods and TDD.
+React Redux with TypeScript array `.map()` method.
 
 ### Stretch Goal
 
-Use react-router-dom to create multiple routes and pages. These pages can be anything you want such as a homepage, about page, etc. 
+Use `react-router-dom` to create multiple routes and pages. One route should use the `.filter()` method to render some data. Another route should use the `.reduce()` method to render some data.  
 
 ### SUPER Stretch Goal
 
+Incorporate TDD with Jest and JSDoc into your project.
