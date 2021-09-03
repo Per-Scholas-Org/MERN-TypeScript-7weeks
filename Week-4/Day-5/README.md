@@ -8,7 +8,7 @@ Coding Challenge: Create React Redux application with TypeScript that
 
 ### MVP
 
-React Redux with TypeScript array `.map()` method.
+Create a React Redux with TypeScript application that consumes an array with the `.map()` method. Render the array in a list in the browser.
 
 ### Stretch Goal
 
