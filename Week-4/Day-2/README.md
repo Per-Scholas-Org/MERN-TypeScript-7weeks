@@ -1,6 +1,6 @@
 # MERN-TypeScript-7weeks
 
-## Week 4 - Day 4 - React Redux
+## Week 4 - Day 2 - React Redux
 
 *Prerequisite Knowledge: GitHub, TypeScript, React w/ TypeScript, Basic State Management*
 
