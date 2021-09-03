@@ -6,14 +6,14 @@
 
 Coding Challenge: Grocery List
 
-### MVP
+### Required MVP
 
 Create a simple Grocery List application. Your user interface should include at least one input field that takes a string. It should also have a submit button to handle the value change. Users should be able to add multiple items to an array. That array of items should render for users to read.
 
-### Stretch Goal
+### *Optional* Stretch Goal
 
 Add a second input field that is a <ins>dropdown</ins> with different categories of items to select like "beef", "fruit", etc. Users should be able to select that item's category from the dropdown and then click a submit button to add it to the list. 
 
-### SUPER Stretch Goal
+### *Optional* SUPER Stretch Goal
 
 Make an API fetch request to [any APi](https://github.com/public-apis/public-apis) and render the data in the browser.
