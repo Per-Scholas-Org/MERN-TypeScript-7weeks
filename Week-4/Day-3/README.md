@@ -15,14 +15,14 @@ Fetch and Manipulate Data with your React Redux with TypeScript Boilerplate
 5. Use the `.filter()` method to find posts with even ID numbers. Render the title and description posts with even IDs in the browser. This list of titles and descriptions of posts with even IDs should render on its own route and have an active link.
 6. Use the `.reduce()` method to find the sum of all post IDs. Use the previous methods to render all of the ID numbers sequentially followed by the amount found using the `.reduce()` method so that it appears as a long list of integers with a total of those itegers at the bottom. Again, this should render on its own route and have an active link allowing navigation via mouse.
 
-### Stretch Goal
+### *Optional* Stretch Goal
 Recursive Component in React with TypeScript
 
 Coding demonstration found at [YouTube - Richard Hong - Building Recursive Components in React](https://www.youtube.com/watch?v=a5aumoJWbKk).
 
 Build a recursive component like in the YouTube video or view the source code [here](https://github.com/H-Richard/recursive-react).
 
-### SUPER Stretch Goal
+### *Optional* SUPER Stretch Goal
 Curried Functions
 
 Create a new component to render some curried data! Don't forget to show off to the rest of your teammates! =)
