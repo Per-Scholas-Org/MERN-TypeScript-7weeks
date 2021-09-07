@@ -1,6 +1,6 @@
 # MERN-TypeScript-7weeks
 
-## Week 5 - Day 2
+## Week 5 - Day 2 - Data Encryption
 
 *Prerequisite Knowledge:*
 
@@ -9,7 +9,7 @@
 ### MVP
 
 
-### Stretch Goal
+### *Optional* Stretch Goal
 
 
-### SUPER Stretch Goal
+### *Optional* SUPER Stretch Goal
