@@ -11,7 +11,10 @@ _Exercise Goals: Deploy a RESTful API through the Heroku PaaS written in a NodeJ
 Deployed API
 
 Create a RESTful API deployed to Heroku useing NodeJS and Express with TypeScript technologies. The API should be able to:
-<br /> 1. Create a new user
+
+<br /> 
+
+    1. Create a new user
 <br />
 
     2. Get a user by ID
