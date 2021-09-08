@@ -4,7 +4,7 @@
 
 *Prerequisite Knowledge: Data Persistence with cookies, local storage, and MongoDB. Authentication with JWT and password hashing with BCrypt. Deployment to Heroku.*
 
-Coding Challenge: Create a Todo App that is username/password protected.
+Coding Challenge: Create a Deployed Todo App that is username/password protected.
 
 ### MVP
 RESTful API to Deployed Heroku
