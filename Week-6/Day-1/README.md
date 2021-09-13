@@ -16,10 +16,10 @@ Use any MERN w/ Redux and TypeScript application that you've already developed. 
 
 Protect Against CSRF Attacks with CSURF and Express-Session
 
-Apply the [csruf middleware](https://www.npmjs.com/package/csurf) by following the documentation and the security guide found [here](https://expressjs.com/en/advanced/best-practice-security.html). These resources will help you to secure your application against the Cross-Site Request Forgery (CSRF) and other attacks
+Apply the [csruf middleware](https://www.npmjs.com/package/csurf) by following the documentation and the security guide found [here](https://expressjs.com/en/advanced/best-practice-security.html). These resources will help you to secure your application against Cross-Site Request Forgery (CSRF) and other attacks.
 
 ### _Optional_ SUPER Stretch Goal
 
 OWASP Cheat Sheet
 
-Become a Cyber Security Expert and work the complete OWASP Cheat Sheet. This will help you to understand the complete security practices and best practices for your application and earn some *serious* points bragging rights during a technical interview. You can find a sample cheat sheet [here](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html).
+Become a Cyber Security Expert and work the complete OWASP Cheat Sheet! This will help you to understand cyber security best practices and advanced topics for your application. Also, you'd earn some *serious* bragging rights during a technical interview! You can find a sample cheat sheet [here](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html).
