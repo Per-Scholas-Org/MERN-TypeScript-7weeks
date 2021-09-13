@@ -23,7 +23,7 @@ Use react-router to create the following pages:
 3. The vegetables page - it's path is `/vegetables`
   a) This page shows a list of all the vegetables. There should be a checkbox next to each vegetable. 
   b) When the user clicks on the checkbox next to a vegetable, the vegetable is added to the grocery list on the Main Page.
-  c) If the user navigates away from the Vegetables Page to the Main Page, and then navigates back, the fruits they have checked should still be checked. 
+  c) If the user navigates away from the Vegetables Page to the Main Page, and then navigates back, the vegetables they have checked should still be checked. 
 
 ### *Optional* Stretch Goal
 
