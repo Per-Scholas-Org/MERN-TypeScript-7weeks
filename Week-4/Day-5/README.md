@@ -4,7 +4,7 @@
 
 *Prerequisite Knowledge: React Redux with TypeScript, JavaScript methods `.map()` `.filter()` `.reduce()`, Test Driven Development*
 
-Coding Challenge: Create React Redux application with TypeScript that 
+Coding Challenge: Create React Router Grocery List applicatoin
 
 ### MVP
 
@@ -31,6 +31,7 @@ Use react-router to create the following pages:
 2. Any other features that you wish to add!
 
 ### *Optional* SUPER Stretch Goal
-1. Use redux with your project.
+1. Use Typescript
+2. Use redux with your project.
 
-2. Incorporate TDD with Jest and JSDoc into your project.
+3. Incorporate TDD with Jest and JSDoc into your project.
