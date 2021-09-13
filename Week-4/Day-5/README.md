@@ -17,7 +17,7 @@ const vegetabes = ['broccoli', carrots', 'zuccini', 'green beans'];
 Use react-router to create the following pages:
 ### The main page - it's path is `/`, the base path or root path of our app.
 1. This shows a title for the app.
-2. A list of all the groceries the user has selected. 
+2. A list of all the groceries the user has selected - you should be able to see all the fruits and vegetables that the user checked.
 
 ### The fruits page - it's path is `/fruits`
  
