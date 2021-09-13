@@ -1,24 +1,24 @@
 # MERN-TypeScript-7weeks
 
-## Week 5 - Day 3 - MongoDB Database
+## Week 5 - Day 3 - Data Encryption
 
-*Prerequisite Knowledge: HTTP Methods, RESTful API Principles, Data Persistence, Basic Security (JWT and BCrypt), React and Redux w/ TypeScript*
+*Prerequisite Knowledge: NodeJS, Express, TypeScript, Test Driven Development, React and Redux w/ TypeScript*
 
-*Exercise Goals: Store persistent data in the cloud that can be fetched and manipulated using HTTP methods.*
+*Exercise Goals: Apply prior knowledge of NodeJS, Express, and TypeScript to create secure web applications using JSON Web Tokens and BCrypt password hashing.*
 
 ### MVP
-NodeJS Express TypeScript API connected to MongoDB
+Create RESTful API with JSON Web Tokens and BCrypt Hashing
 
-Coding demonstration found at [YouTube - Vince Tech - Typescript Mongoose and MongoDB Setup](https://www.youtube.com/watch?v=Ld2aRRH1iug). 
+Coding sample found at [GitHub - whutchinson98 - node-express-auth-skeleton ](https://github.com/whutchinson98/node-express-auth-skeleton). 
 
-Please follow the tutorial found at [this](https://www.youtube.com/watch?v=Ld2aRRH1iug) link to create a simple NodeJS Express TypeScript API connected to MongoDB. You should be able to successfully test this API with Postman.
+Please create a RESTful API that requires JWT authentication and BCrypt password hasing. There should a route to create a new user, a route to login that accepts a username and password and returns a JWT token. The JWT token should be valid for 1 hour.
+
+No frontend/client is required for MVP. Functionality should be testable via Postman. 
 
 ### *Optional* Stretch Goal
-Add authentication to the API
+Create a React Application with TypeScript
 
-Refer to yesterday's lesson to add JWT and BCrypt to the API. You should be able to successfully test this API with Postman. Saved passwords should be hashed and stored in the database. Users should be able to login and receive a JWT token.
+Create a React application that requires JWT authentication. The application should have a login page that accepts a username and password and returns a JWT token. After logging in, users should be redirected to a page that displays the user's username.
 
 ### *Optional* SUPER Stretch Goal
-Add a React frontend to the API
-
-Create a React frontend to the API. You should be able to render data in the browser's window.
+Add Redux to the React Application
