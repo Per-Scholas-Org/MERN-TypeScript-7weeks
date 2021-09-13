@@ -1,6 +1,6 @@
 # MERN-TypeScript-7weeks
 
-## Week 6 - Day 2
+## Week 6 - Day 2 - Single Sign On and Environment Variables
 
 _Prerequisite Knowledge: Node.js, React and Redux w/ TypeScript, Express, MongoDB, Sessions, HTTP Methods_
 

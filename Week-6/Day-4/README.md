@@ -1,6 +1,6 @@
 # MERN-TypeScript-7weeks
 
-## Week 6 - Day 4
+## Week 6 - Day 4 - Continuous Deployment and Development
 
 *Prerequisite Knowledge:*
 

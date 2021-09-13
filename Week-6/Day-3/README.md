@@ -1,6 +1,6 @@
 # MERN-TypeScript-7weeks
 
-## Week 6 - Day 3
+## Week 6 - Day 3 - Continuous Integration
 
 *Prerequisite Knowledge:*
 
