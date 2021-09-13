@@ -33,11 +33,13 @@ Use react-router to create the following pages:
 
 ### *Optional* Stretch Goal
 
-1. Add a Proteins page with `['chicken', 'beef', 'pork', 'tofu', 'fish']`
-2. Any other features that you wish to add!
+0. Add JSDoc documentation.
+1. Add React PropTypes.
+2. Add a Proteins page with `['chicken', 'beef', 'pork', 'tofu', 'fish']`
+3. Any other features that you wish to add!
 
 ### *Optional* SUPER Stretch Goal
 1. Use Typescript
 2. Use redux with your project.
 
-3. Incorporate TDD with Jest and JSDoc into your project.
+3. Incorporate TDD with Jest.
