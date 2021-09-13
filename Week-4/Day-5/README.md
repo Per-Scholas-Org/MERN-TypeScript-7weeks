@@ -15,15 +15,21 @@ const vegetabes = ['broccoli', carrots', 'zuccini', 'green beans'];
 ```
 
 Use react-router to create the following pages:
-1. The main page - it's path is `/`, the base path or root path of our app. This shows a title for the app and list of all the groceries the user has selected. 
-2. The fruits page - it's path is `/fruits`
-  a) This page shows a list of all the fruits. There should be a checkbox next to each fruit. 
-  b) When the user clicks on the checkbox next to a fruit, the fruit is added to the grocery list on the Main Page.
-  c) If the user navigates away from the Fruits Page to the homepage, and then navigates back, the fruits they have checked should still be checked. 
-3. The vegetables page - it's path is `/vegetables`
-  a) This page shows a list of all the vegetables. There should be a checkbox next to each vegetable. 
-  b) When the user clicks on the checkbox next to a vegetable, the vegetable is added to the grocery list on the Main Page.
-  c) If the user navigates away from the Vegetables Page to the Main Page, and then navigates back, the vegetables they have checked should still be checked. 
+### The main page - it's path is `/`, the base path or root path of our app.
+1. This shows a title for the app.
+2. A list of all the groceries the user has selected. 
+
+### The fruits page - it's path is `/fruits`
+ 
+1. This page shows a list of all the fruits. There should be a checkbox next to each fruit. 
+2. When the user clicks on the checkbox next to a fruit, the fruit is added to the grocery list on the Main Page.
+3. If the user navigates away from the Fruits Page to the homepage, and then navigates back, the fruits they have checked should still be checked. 
+
+### The vegetables page - it's path is `/vegetables`
+ 
+ 1. This page shows a list of all the vegetables. There should be a checkbox next to each vegetable. 
+ 2. When the user clicks on the checkbox next to a vegetable, the vegetable is added to the grocery list on the Main Page.
+ 3. If the user navigates away from the Vegetables Page to the Main Page, and then navigates back, the vegetables they have checked should still be checked. 
 
 ### *Optional* Stretch Goal
 
