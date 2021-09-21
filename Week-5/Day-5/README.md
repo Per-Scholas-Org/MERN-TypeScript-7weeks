@@ -23,7 +23,7 @@ Your API must have the following endpoints:
 
 `PUT /todo/:id` - changes the content of an existing todo.
 
-`DELETE /todo/:id` - deletes an existin todo.
+`DELETE /todo/:id` - deletes an existing todo.
 
 ### *Optional* Stretch Goals
 
