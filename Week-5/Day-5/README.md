@@ -9,7 +9,7 @@ Coding Challenge: Create a Todo App that is username/password protected.
 ### MVP
 RESTful API to Deployed Heroku
 
-Create a RESTful API that allows users to create, read, update, and delete todo items. New users should be able to create a new account and then login to see the Todo list. Saved passwords should be hashed using BCrypt. The Todo list should be stored in a MongoDB database. Testing can be done with Postman.
+Using express and Node.js create a RESTful API that allows users to create, read, update, and delete todo items. New users should be able to create a new account and then login to see the Todo list. Saved passwords should be hashed using BCrypt. The Todo list should be stored in a MongoDB database. Testing can be done with Postman.
 
 ### *Optional* Stretch Goal
 Add a React Client.
