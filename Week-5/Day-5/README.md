@@ -7,7 +7,7 @@
 Coding Challenge: Create a backend API for a Todo App which stores its data in MongoDB
 
 ### MVP
-RESTful API to Deployed Heroku
+RESTful API
 
 Using express and Node.js create a RESTful API to create, read, update, and delete todo items. The Todo list must be stored in a MongoDB database.  Testing can be done with Postman.
 
