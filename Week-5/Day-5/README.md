@@ -16,9 +16,13 @@ Here is an example todo: `{ content: 'Buy groceries' }`
 Your API must have the following endpoints:
 
 `GET /todos` - this returns an array of JSON objects representing all TODO items
+
 `GET /todo/:id` - this returns a JSON object with information about a todo. Use the `_id` property which MongoDB automatically gives to all new documents.
+
 `POST /todo` - creates a new TODO. Should contain JSON in the POSt request body with a todo item.
+
 `PUT /todo/:id` - changes the content of an existing todo.
+
 `DELETE /todo/:id` - deletes an existin todo.
 
 ### *Optional* Stretch Goals
